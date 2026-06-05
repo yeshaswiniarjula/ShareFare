@@ -8,6 +8,8 @@
 
 **Offer and book rides with verified college peers. Split costs, travel safely, build trust.**
 
+> **Note:** This repository and project are the intellectual property of [Hari07](https://github.com/hari07-git).
+
 ---
 
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/)

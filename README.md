@@ -456,9 +456,7 @@ Found a security issue? Email [sharefaree@gmail.com](mailto:sharefaree@gmail.com
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
 
